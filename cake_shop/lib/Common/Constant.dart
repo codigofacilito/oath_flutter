@@ -1,0 +1,16 @@
+const APP_ID = "AQUI_TU_CLIENT_API";
+const APP_SECRET = "AQUI_TU_CLIENT_SECRET";
+const URL = "AQUI_TU_DOMINIO";
+const CONNECTION_DISABLE = "connection_disable";
+const SERVER_ERROR = "server_error";
+const GRANT_TYPE = "grant_type";
+const USERNAME = "username";
+const PASSWORD = "password";
+const AUDIENCE = "audience";
+const API = "/api/v2/";
+const SCOPE = "scope";
+const CLIENT_ID = "client_id";
+const CLIENT_SECRET = "client_secret";
+const REFRESH_TOKEN ="refresh_token";
+const String EMAIL = "email";
+const String NAME = "name";
